@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>vi</string>
+	<key>CFBundleExecutable</key>
+	<string>GoViet</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.dinhhuong.inputmethod.GoViet</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GoViet</string>
+	<key>CFBundleDisplayName</key>
+	<string>GoViet</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+
+	<key>InputMethodConnectionName</key>
+	<string>GoViet_Connection</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>GoVietInputController</string>
+	<key>TISInputSourceID</key>
+	<string>com.dinhhuong.inputmethod.GoViet</string>
+	<key>TISIntendedLanguage</key>
+	<string>vi</string>
+	<key>tsInputMethodCharacterRepertoireKey</key>
+	<array>
+		<string>Latn</string>
+	</array>
+	<key>tsInputMethodIconFileKey</key>
+	<string>icon.tiff</string>
+</dict>
+</plist>
